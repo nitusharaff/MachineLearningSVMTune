@@ -49,7 +49,7 @@ However, before the training was performed, there was a Support Vector Machine (
 
 The plot for the actual vs predicted values for SVM are shown below:
 
-![Alt text](/screenshots/plotsvm.png | width="48" )
+![Alt text](/screenshots/plotsvm.png = 48x24 )
 
 
 <h3> RANDOM FORESTS </h3>
