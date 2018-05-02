@@ -58,13 +58,15 @@ We train the dataset with Random forest algorithm with the required parameters n
 
 Fig below shows the plot for parameter mtry of Random Forest with the OOB error. 
 
-![Alt text](/screenshots/randomferror.png | width="48" )
+![Alt text](/screenshots/randomferror.png) <!-- .element height="24%" width="50%" -->
+
 
 The plot demonstrates that initially the error decreases as mtry increases and then at the point where mtry=9 it becomes constant. Thus, we can use values greater than 9 from mtry to get least error in the model. We then train the dataset using the parameter mtry equal to 10 and number of trees as the default value for the random forest classifier.
 
 The plot for the actual vs predicted values for Random Forest are shown below:
 
-![Alt text](/screenshots/randomf.png | width="48" )
+![Alt text](/screenshots/randomf.png) <!-- .element height="24%" width="50%" -->
+
 
 We can observe that the plot for Random Forests are more precise than support vector machines for this dataset, because the plot is more compact towards the y=x line. 
 
@@ -72,7 +74,8 @@ We can observe that the plot for Random Forests are more precise than support ve
 <h3> EVALUATIONS </h3>
  Coefficient of Determination (R2) and Root Mean Square Error (RMSE) to evaluate and understand the effectiveness of our trained model with the predictions that it makes. Table shown below: 
  
- ![Alt text](/screenshots/accuracy.png)
+ ![Alt text](/screenshots/accuracy.png) <!-- .element height="24%" width="50%" -->
+
  
  
  
