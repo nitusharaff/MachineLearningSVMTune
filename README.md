@@ -15,7 +15,7 @@ The dataset for Yelp and Groupon was collected by a python- based toolbox.  The 
 ![Alt text](/screenshots/groupon.png)
 <h3>LINKING YELP TO GROUPON</h3>
 
-![Alt text](/screenshots/yelptogroupon.png)
+![Alt text](/screenshots/yelptogrouponid.png)
 
 (Dataset not posted due to confidentiality)
 
