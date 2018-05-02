@@ -44,7 +44,7 @@ METHOD:
 <h3> SVM TUNING </h3>
 However, before the training was performed, there was a Support Vector Machine (SVM) Tuning of the data performed to obtain the best parameters of cost and gamma. The experiment yields the value of cost to be 16 and gamma as 0.5. These cost and gamma values are further used to train the model to get high accuracy. Moreover, we use the method of ‘epsilon regression’ to make no penalty be imposed if the predicted is at a distance of epsilon from the actual value. The default value of 0.1 was taken for epsilon. 
 
-![Alt text](/screenshots/tuning.png)
+![Alt text](/screenshots/tuningsvm.png)
 
 
 The plot for the actual vs predicted values for SVM are shown below:
